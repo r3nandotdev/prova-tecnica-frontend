@@ -1,26 +1,37 @@
-# Teste para candidatos à vaga de frontend na Supersonic
 
+<h1 align="center">
+  <img title="Supersonic" alt="Logo da Supersonic" src=".git/logo.svg" />
+</h1>
+
+## ✨ Prova técnica para a vaga de frontend
 De antemão já agradecemos pelo seu tempo e intenção de trabalhar conosco, temos certeza que grandes frutos vão surgir dessa parceria!
 
-## Descrição
-- O teste consiste na conversão de um layout feito no [Figma](https://www.figma.com/file/LDTaoFR7mk2bZ2FxCIKalm/Supersonic-teste-para-frontend?node-id=40%3A262) para web
-- Damos o prazo inicial de 7 dias para a entrega do teste, mas se precisar de mais tempo, basta comunicar
+### 💻 Descrição
+- O teste consiste na conversão de um layout feito no Figma para uma página web
 - As tecnologias utilizadas na conversão não terão tanto peso quanto o bom uso delas, ou seja, sinta-se livre pra utilizar as bibliotecas e/ou frameworks que se sentir mais confortável desde que possamos replicá-las localmente sem dificuldade
-- Projeto versionado em git e publicado no Github
-- Instruções para instalação no readme.md
-## Ganhe pontos extras por:
 
+### 🔥 Ganhe pontos extras por:
 - Atingir boas notas nas métricas do Lighthouse
 - Aplicar o Design System do layout de maneira eficiente e escalável
-- Aplicar boas práticas de UX e acessibilidade na validação do form e na navegação da página no geral
+- Aplicar boas práticas de UX e acessibilidade na validação do form e na navegação da página como um todo
 - Integrar o formulário com a API da hubspot
-- Buscar os posts de blog mais recentes pela API do WordPress da Supersonic
+- Buscar os posts mais recentes do blog pela API do WordPress da Supersonic
 
-## Materiais de apoio
+### ⚡️ Prazo
+- Damos o prazo inicial de 7 dias para a entrega do teste, mas se precisar de mais tempo, basta comunicar
 
-- Link do projeto no figma:  https://www.figma.com/file/LDTaoFR7mk2bZ2FxCIKalm/Supersonic-teste-para-frontend?node-id=0%3A1
-- URL da API do WordPress da Supersonic: [https://www.supersonic.ag/wp-json/wp/v2/](https://www.supersonic.ag/wp-json/wp/v2/)
-- Informações do formulário da Hubspot:
+### 🚀 Entrega
+- Dê um fork nesse repositório e suba seu projeto de modo privado
+- O readme deve conter as instruções para instalação
+
+### 🖌 Layout
+[Link do projeto no figma](https://www.figma.com/file/LDTaoFR7mk2bZ2FxCIKalm/Supersonic-teste-para-frontend?node-id=0%3A1)
+
+### 📃 Wordpress API
+URL da API do WordPress da Supersonic: [https://www.supersonic.ag/wp-json/wp/v2/](https://www.supersonic.ag/wp-json/wp/v2/)
+
+### 📃 Hubspot API
+Informações do formulário da Hubspot:
     
     ```json
     {
@@ -28,9 +39,8 @@ De antemão já agradecemos pelo seu tempo e intenção de trabalhar conosco, te
       "formId": "74eb6839-1f8e-45ea-9c20-2b0c038a4829"
     }
     ```
-    
-    campos do formulário:
-    
+Campos do formulário:
+
     ```json
     {
       "fields": [
