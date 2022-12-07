@@ -26,7 +26,7 @@ De antemão já agradecemos pelo seu tempo e intenção de trabalhar conosco, te
 <br>
 
 ### 🚀 Entrega
-- Dê um fork nesse repositório e suba seu projeto de modo privado
+- Crie um repositório privado no Github e adicione @RenanBrenio como colaborador
 - O readme deve conter as instruções para instalação
 
 <br>
