@@ -1,7 +1,4 @@
-
-<h1 align="center">
-  <img title="Supersonic" alt="Logo da Supersonic" src=".git/logo.svg" />
-</h1>
+<img title="Supersonic" alt="Logo da Supersonic" src=".github/logo.svg" />
 
 ## ✨ Prova técnica para a vaga de frontend
 De antemão já agradecemos pelo seu tempo e intenção de trabalhar conosco, temos certeza que grandes frutos vão surgir dessa parceria!
